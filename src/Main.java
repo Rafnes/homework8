@@ -20,7 +20,7 @@ public class Main {
             }
         }
         System.out.print("Массив 2: ");
-        for (int i = 0; i < arrayInt.length; i++) {
+        for (int i = 0; i < arrayDouble.length; i++) {
             if (i == arrayDouble.length - 1) {
                 System.out.println(arrayDouble[i]);
             } else {
